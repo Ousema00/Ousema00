@@ -11,7 +11,6 @@
 I'm a software engineering student who enjoys solving problems, building systems, and learning technologies deeply instead of just using them on the surface.
 
 I’m especially interested in:
-
 Backend engineering
 AI & automation
 System design
@@ -61,7 +60,7 @@ Network troubleshooting
 
 ## 🚀 Featured Projects
 
-💰 Stouchi — AI-Powered Financial Management Platform
+### 💰 Stouchi — AI-Powered Financial Management Platform
 
 A complete financial management platform web and desktop developed with Symfony java and AI-powered features.
 
@@ -74,7 +73,7 @@ Smart event reminders & notifications
 Backend architecture & database management
 AI-integrated functionalities
 
-🌐 Linux Systems & Networking Project
+### 🌐 Linux Systems & Networking Project
 
 Hands-on systems and networking project built in a Linux environment involving:
 
