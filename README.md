@@ -125,14 +125,6 @@ UI/Desktop development
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
-
----
-
 ## 🎯 Current Goals
 
 * Become highly skilled in backend engineering
@@ -147,8 +139,9 @@ UI/Desktop development
 ## 📫 Contact
 
 * LinkedIn: www.linkedin.com/in/oussema-ziadia-9203b93bb
-* Email: ziadi.oussema@esprit.tn
-* GitHub: [https://github.com/Ousema00](https://github.com/Ousema00)
+* Email: ziadia.oussema@esprit.tn
+* +216 28 387 814
+
 
 ---
 
