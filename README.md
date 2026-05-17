@@ -66,24 +66,24 @@ A complete financial management platform web and desktop developed with Symfony 
 
 Main features included:
 
-Transaction management
-Budget management
-Financial analysis
-Smart event reminders & notifications
-Backend architecture & database management
-AI-integrated functionalities
+* Transaction management
+* Budget management
+* Financial analysis
+* Smart event reminders & notifications
+* Backend architecture & database management
+* AI-integrated functionalities
 
 ### 🌐 Linux Systems & Networking Project
 
 Hands-on systems and networking project built in a Linux environment involving:
 
-Routing configuration
-DHCP setup
-NFS services
-Web services
-Database services
-Linux network communication & administration
-Network configuration and troubleshooting
+* Routing configuration
+* DHCP setup
+* NFS services
+* Web services
+* Database services
+* Linux network communication & administration
+* Network configuration and troubleshooting
 
 ### 📅 Event & Webinar Management Platform
 
