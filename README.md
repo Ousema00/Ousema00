@@ -72,6 +72,7 @@ Main features included:
 * Smart event reminders & notifications
 * Backend architecture & database management
 * AI-integrated functionalities
+# https://github.com/BettaibiMedAli/Esprit-PIDEV-3A25-2526-Stouchi.git
 
 ### 🌐 Linux Systems & Networking Project
 
