@@ -21,14 +21,11 @@ Cybersecurity fundamentals
 Performance & scalability
 Building useful software with real impact
 
-I like challenging myself with serious projects and continuously improving my technical skills.
-
 ---
 
 ## 🛠 Tech Stack
 
 ### Languages
-
 * C
 * C++
 * Java
@@ -38,7 +35,6 @@ I like challenging myself with serious projects and continuously improving my te
 * SQL
 
 ### Backend & Web
-
 * Symfony
 * REST APIs
 * MVC Architecture
